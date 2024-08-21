@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologia e Saúde</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>A Tecnologia e sua Interferência na Saúde da População</h1>
+    <nav>
+        <ul>
+            <li><a href="#positivos" class="active">Impactos Positivos</a></li>
+            <li><a href="#negativos">Impactos Negativos</a></li>
+            <li><a href="#conclusao">Conclusão</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="positivos">
+        <h2>Impactos Positivos</h2>
+        <p>A tecnologia tem trazido benefícios significativos para a saúde da população, incluindo:</p>
+        <ul>
+            <li><strong>Telemedicina:</strong> Permite consultas médicas à distância, facilitando o acesso a cuidados de saúde.</li>
+            <li><strong>Wearables:</strong> Dispositivos como relógios inteligentes ajudam no monitoramento da saúde e na prática de exercícios.</li>
+            <li><strong>Informação e Educação:</strong> Acesso a informações sobre saúde e bem-estar pela internet, promovendo a educação da população.</li>
+        </ul>
+    </section>
+
+    <section id="negativos">
+        <h2>Impactos Negativos</h2>
+        <p>Por outro lado, a tecnologia também pode ter efeitos adversos, como:</p>
+        <ul>
+            <li><strong>Sedentário:</strong> O aumento do uso de tecnologia pode levar a um estilo de vida sedentário, contribuindo para problemas de saúde.</li>
+            <li><strong>Dependência:</strong> O vício em tecnologia pode afetar a saúde mental e emocional das pessoas.</li>
+            <li><strong>Desinformação:</strong> A proliferação de informações falsas sobre saúde pode levar a decisões prejudiciais.</li>
+        </ul>
+    </section>
+
+    <section id="conclusao">
+        <h2>Conclusão</h2>
+        <p>Enquanto a tecnologia oferece muitas oportunidades para melhorar a saúde da população, é crucial utilizá-la de maneira equilibrada e consciente. A educação e a conscientização são fundamentais para maximizar os benefícios e minimizar os riscos associados ao uso da tecnologia na saúde.</p>
+    </section>
+</main>
+
+</body>
+</html>
